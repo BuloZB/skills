@@ -237,3 +237,4 @@ If you solve an error that wasn't in the known-errors list, suggest the user PR 
 | Persistent storage, public bucket URLs | [`references/buckets.md`](references/buckets.md) |
 | Community grant requests (non-PRO needing ZeroGPU) | [`references/grants.md`](references/grants.md) |
 | Provider proxy (zero-VRAM big LLM via Cerebras / Fireworks / Together / etc.) | [`references/inference-providers.md`](references/inference-providers.md) |
+| **3D Spaces: generation, CUDA extensions, output formats, and model recipes (incl. gaussian splatting)** | [`references/3d-generation.md`](references/3d-generation.md) |
